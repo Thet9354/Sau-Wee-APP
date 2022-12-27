@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#13151F</color><!--25262F-->
+    <color name="colorPrimaryDark">#13151F</color>
+    <color name="colorAccent">#D3FAED</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="appblue">#006EE6</color>
+    <color name="appgrey">#9E9E9E</color>
+    <color name="ytred">#C4302B</color>
+    <color name="instapink">#C32aa3</color>
+    <color name="redditorange">#FF4301</color>
+    <color name="twitterblue">#00acee</color>
+    <color name="lightblue">#81d4fa</color>
+
+    <!--other bg colors-->
+    <color name="editbg">#1D1F2B</color>
+    <color name="white20">#20FFFFFF</color>
+    <color name="dark_gray">#2B2929</color>
+    <color name="black80">#CC151515</color>
+    <color name="mdtp_accent_color">#009688</color>
+    <color name="mdtp_accent_color_dark">#00796b</color>
+
+    <color name="primary">#1B023B</color>
+
+    <!--background color-->
+    <color name="colorBackground">#dedcde</color>
+    <color name="spinnerbg">#eeeeee</color>
+    <color name="arrowbg">#eeeeee</color>
+    <color name="checkbg">#68EADD</color>
+    <color name="cardbg">#1D1F2B</color>
+    <color name="commonbg">#272935</color>
+    <color name="spinnerbgnew">#25262F</color>
+    <!--bottombar color-->
+    <color name="bottombar">#303038</color>
+
+    <!--for bottom bar icon bg-->
+    <color name="icon_normal">#999</color>
+
+    <!--divider color-->
+    <color name="dividerLight">#999999</color>
+    <color name="dividerDark">#555555</color>
+
+    <color name="card_background">#ffffff</color>
+    <color name="stroke">#CCCCCC</color>
+
+
+    <color name="transperent">#00ffffff</color>
+
+    <color name="night_mode">#6124B1</color>
+    <color name="notifications">#13B2c3</color>
+    <color name="private_acc">#E6A326</color>
+    <color name="security">#D95F69</color>
+
+    <color name="warn">#FF1313</color>
+    <color name="halfwarn">#483FC8</color>
+
+    <color name="mygreen">#00ce44</color>
+    <color name="tab_down">#37aaa9</color>
+    <color name="tab">#46dad8</color>
+    <color name="inside_progress">#ff6c4d70</color>
+    <color name="inside_progress2">#35824e</color>
+    <color name="external_progress">#9C27B0</color>
+    <color name="external_progress2">#18eb5e</color>
+    <color name="bottom_velocimeter">#e515171d</color>
+    <color name="internal_velocimeter">#ffb4b4b4</color>
+    <color name="needle">#6200EA</color>
+    <color name="needle2">#18e9eb</color>
+    <color name="digital_number">#ffdcefff</color>
+    <color name="fullblack">#111111</color>
+
+
+    <!--FIGMA GRADIENT COLORS-->
+    <color name="first">#00ADF6</color>
+    <color name="second">#FF00B8</color>
+    <color name="third">#FF00B8</color>
+
+    <color name="fourth">#FF3B3B</color>
+    <color name="fifth">#6600CC</color>
+    <color name="sixth">#F4656D</color>
+    <color name="seventh">#AD00FF</color>
+    <color name="eighth">#4316DB</color>
+    <color name="ninth">#9076E7</color>
+</resources>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutActivity"
+    android:orientation="vertical"
+    android:background="@drawable/homebg">
+
+    <TextView
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:text="TourMate Application by Thet Pine"
+        android:textSize="20dp"
+
+        android:textColor="@color/appgrey"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"/>
+    <TextView
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:text="Add Visit Activity is the Data Input Activity and History is the Information Display Activity."
+        android:textSize="20dp"
+        android:textColor="@color/appgrey"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="17dp"/>
+
+    <TextView
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:text="Additional Notes: you can manually input Latitude and Longitude values in the Add Visit Page by pressing the respective bars should you require it."
+        android:textSize="15dp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="13dp"/>
+
+    <TextView
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:text="It is recommended to take pictures in landscape, and make sure photos arent too large"
+        android:textSize="15dp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="5dp"/>
+
+    <View
+        android:layout_marginTop="20dp"
+        android:layout_width="380dp"
+        android:layout_marginLeft="15dp"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+
+    <TextView
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:text="Follow me!"
+        android:textSize="15dp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:background="@drawable/rounded_button"
+        android:text="Medium"
+        android:gravity=""
+        android:textColor="@color/ytred"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="cursive"
+        android:textStyle="bold"
+        android:id="@+id/youtube"/>
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:background="@drawable/rounded_button"
+        android:text="Instagram"
+        android:gravity=""
+        android:textColor="@color/instapink"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="cursive"
+        android:textStyle="bold"
+        android:id="@+id/insta"/>
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:background="@drawable/rounded_button"
+        android:text="Linkedin"
+        android:gravity=""
+        android:textColor="@color/redditorange"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="cursive"
+        android:textStyle="bold"
+        android:id="@+id/reddit"/>
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:background="@drawable/rounded_button"
+        android:text="Twitter"
+        android:gravity=""
+        android:textColor="@color/twitterblue"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="cursive"
+        android:textStyle="bold"
+        android:id="@+id/twitter"/>
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/drawable/aboutbtnimg.xml" value="0.206" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/drawable/bg_spinner_vocation.xml" value="0.206" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/drawable/bg_spinner_vocation_up.xml" value="0.206" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/drawable/button_bg.xml" value="0.206" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/drawable/ic_home.xml" value="0.2945" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/drawable/ic_maplocation.xml" value="0.206" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/drawable/ic_settings.xml" value="0.206" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/drawable/prellimtextbg.xml" value="0.206" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/drawable/round_back_night_mode.xml" value="0.206" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/drawable/round_corners.xml" value="0.206" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/drawable/splash_bg.xml" value="0.206" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_about.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_about_us.xml" value="0.5354166666666667" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_ad_preference.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_add.xml" value="0.3388888888888889" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_additional_resources.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_data_sharing.xml" value="0.5354166666666667" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_feedback.xml" value="0.5354166666666667" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_history.xml" value="0.5604166666666667" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_home.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_language.xml" value="0.5354166666666667" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_language_choice.xml" value="0.5354166666666667" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_legal_notice.xml" value="0.5354166666666667" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_location_detail.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_location_info.xml" value="0.5354166666666667" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_main.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_main_settings.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_map.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_privacy_policy.xml" value="0.5354166666666667" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_security_nprivacy.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_splash_screen.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_starting_splash.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/activity_text_size.xml" value="0.5354166666666667" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/fragment_add_visit.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/fragment_home.xml" value="0.5354166666666667" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/fragment_map_view.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/fragment_past_visits.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/item_textsize.xml" value="0.412109375" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/row_cityguides.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/row_deals.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/row_longweekend.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/layout/row_populardestination.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/menu/menu_mybooking.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/Phoon Thet Pine/AndroidStudioProjects/P2103174_Assignment/app/src/main/res/menu/navigation.xml" value="0.5494791666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

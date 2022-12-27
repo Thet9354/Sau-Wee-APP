@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity"
+    android:orientation="vertical"
+    android:background="@drawable/homebg">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="270dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/info"
+            app:layout_constraintBottom_toBottomOf="@+id/Aboutbtn"
+            app:layout_constraintEnd_toEndOf="@+id/Aboutbtn"
+            app:layout_constraintStart_toStartOf="@+id/Aboutbtn"
+            app:layout_constraintTop_toTopOf="@+id/Aboutbtn"
+            app:layout_constraintVertical_bias="0.2" />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/add"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/Addbtn"
+            app:layout_constraintHorizontal_bias="0.515"
+            app:layout_constraintStart_toStartOf="@+id/Addbtn"
+            app:layout_constraintTop_toTopOf="@+id/Addbtn"
+            app:layout_constraintVertical_bias="0.171" />
+
+        <Button
+            android:id="@+id/Addbtn"
+            android:layout_width="176dp"
+            android:layout_height="120dp"
+            android:layout_marginTop="4dp"
+            android:background="@drawable/rounded_button"
+            android:layout_marginEnd="10dp"
+            android:gravity="bottom|center"
+            android:paddingBottom="15dp"
+            android:text="Add Visit"
+            android:textStyle="italic"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/Aboutbtn"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/Aboutbtn"
+            android:layout_width="176dp"
+            android:layout_height="120dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="4dp"
+            android:background="@drawable/rounded_button"
+            android:gravity="bottom|center"
+            android:paddingBottom="15dp"
+            android:text="About"
+            android:textStyle="italic"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/exit"
+            app:layout_constraintBottom_toBottomOf="@+id/exitbtn"
+            app:layout_constraintEnd_toEndOf="@+id/exitbtn"
+            app:layout_constraintStart_toStartOf="@+id/exitbtn"
+            app:layout_constraintTop_toTopOf="@+id/exitbtn"
+            app:layout_constraintVertical_bias="0.2" />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/history"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/historybtn"
+            app:layout_constraintHorizontal_bias="0.515"
+            app:layout_constraintStart_toStartOf="@+id/historybtn"
+            app:layout_constraintTop_toTopOf="@+id/historybtn"
+            app:layout_constraintVertical_bias="0.171" />
+
+        <Button
+            android:id="@+id/historybtn"
+            android:layout_width="176dp"
+            android:layout_height="120dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginEnd="10dp"
+            android:background="@drawable/rounded_button"
+            android:gravity="bottom|center"
+            android:paddingBottom="15dp"
+            android:text="History"
+            android:textStyle="italic"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/exitbtn"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/exitbtn"
+            android:layout_width="176dp"
+            android:layout_height="120dp"
+            android:layout_marginStart="10dp"
+            android:background="@drawable/rounded_button"
+            android:gravity="bottom|center"
+            android:paddingBottom="15dp"
+            android:text="Exit"
+            android:textStyle="italic"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

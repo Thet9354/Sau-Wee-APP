@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.p2103174_assignment">
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.P2103174_Assignment"
+        tools:targetApi="31">
+        <activity
+            android:name=".LegalNotice_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".PrivacyPolicy_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".AdditionalResources_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".AboutUs_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Feedback_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".LanguageChoice_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Language_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".TextSize_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".LocationInfo_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DataSharing_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Ad_Preference_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".SecurityNPrivacy_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".MainSettings_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Location_Detail_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Starting_Splash_Activity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyAX3K97560kwqtBD8jc0a0AVS7qn5AHTao" />
+
+        <activity
+            android:name=".HistoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MapActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".MapActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".MapActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="false" />
+    </application>
+
+</manifest>

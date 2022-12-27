@@ -1,0 +1,246 @@
+<resources>
+    <string name="app_name">P2103174_Assignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="destination">
+        <item name="Austria">Austria</item>
+        <item name="Finland">Finland</item>
+        <item name="Netherlands">Netherlands</item>
+        <item name="Ireland">Ireland</item>
+        <item name="Sweden">Sweden</item>
+        <item name="Germany">Germany</item>
+        <item name="Denmark">Denmark</item>
+        <item name="Switzerland">Switzerland</item>
+        <item name="Norway">Norway</item>
+        <item name="France">France</item>
+        <item name="Spain">Spain</item>
+        <item name="Canada">Canada</item>
+        <item name="Bulgaria">Bulgaria</item>
+        <item name="Belgium">Belgium</item>
+        <item name="Estonia">Estonia</item>
+        <item name="United Kingdom">United Kingdom</item>
+        <item name="Luxembourg">Luxembourg</item>
+        <item name="New Zealand">New Zealand</item>
+        <item name="Italy">Italy</item>
+        <item name="Australia">Australia</item>
+        <item name="Latvia">Latvia</item>
+        <item name="Cyprus">Cyprus</item>
+        <item name="Singapore">Singapore</item>
+        <item name="Japan">Japan</item>
+        <item name="North Macedonia">North Macedonia</item>
+        <item name="South Korea">South Korea</item>
+        <item name="Moldova">Moldova</item>
+        <item name="Slovakia">Slovakia</item>
+        <item name="Romania">Romania</item>
+        <item name="Portugal">Portugal</item>
+        <item name="Poland">Poland</item>
+        <item name="Czech Republic">Czech Republic</item>
+        <item name="Slovenia">Slovenia</item>
+        <item name="Costa_Rica">Costa Rica</item>
+        <item name="Chile">Chile</item>
+        <item name="Iceland">Iceland</item>
+        <item name="Lithuania">Lithuania</item>
+        <item name="Georgia">Georgia</item>
+        <item name="Hungary">Hungary</item>
+        <item name="United States">United States</item>
+        <item name="Russia">Russia</item>
+        <item name="Greece">Greece</item>
+        <item name="Bosnia and Herzegovina">Bosnia and Herzegovina</item>
+        <item name="India">India</item>
+        <item name="Malaysia">Malaysia</item>
+        <item name="Armenia">Armenia</item>
+        <item name="South Africa">South Africa</item>
+        <item name="Mauritius">Mauritius</item>
+        <item name="Uruguay">Uruguay</item>
+        <item name="Albania">Albania</item>
+    </string-array>
+
+    <string-array name="destinationPrice">
+        <item name="Austria">3,223</item>
+        <item name="Finland">2,667</item>
+        <item name="Netherlands">3,548</item>
+        <item name="Ireland">2,970</item>
+        <item name="Sweden">2,177</item>
+        <item name="Germany">3,552</item>
+        <item name="Denmark">2,479</item>
+        <item name="Switzerland">1,593</item>
+        <item name="Norway">1,734</item>
+        <item name="France">1,862</item>
+        <item name="Spain">1,911</item>
+        <item name="Canada">2,047</item>
+        <item name="Bulgaria">1,500</item>
+        <item name="Belgium">1,538</item>
+        <item name="Estonia">1,200</item>
+        <item name="United Kingdom">2,000</item>
+        <item name="Luxembourg">2,500</item>
+        <item name="New Zealand">1,780</item>
+        <item name="Italy">2,330</item>
+        <item name="Australia">2,356</item>
+        <item name="Latvia">1,877</item>
+        <item name="Cyprus">1,977</item>
+        <item name="Singapore">1,500</item>
+        <item name="Japan">1,800</item>
+        <item name="North Macedonia">1,978</item>
+        <item name="South Korea">2,110</item>
+        <item name="Moldova">2,510</item>
+        <item name="Slovakia">1,875</item>
+        <item name="Romania">1,755</item>
+        <item name="Portugal">3,411</item>
+        <item name="Poland">4,132</item>
+        <item name="Czech Republic">3,364</item>
+        <item name="Slovenia">3,115</item>
+        <item name="Costa_Rica">2,872</item>
+        <item name="Chile">2,445</item>
+        <item name="Iceland">3,569</item>
+        <item name="Lithuania">3,445</item>
+        <item name="Georgia">2,884</item>
+        <item name="Hungary">3,115</item>
+        <item name="United States">3,559</item>
+        <item name="Russia">2,873</item>
+        <item name="Greece">1,863</item>
+        <item name="Bosnia and Herzegovina">1,855</item>
+        <item name="India">500</item>
+        <item name="Malaysia">250</item>
+        <item name="Armenia">2,488</item>
+        <item name="South Africa">2,320</item>
+        <item name="Mauritius">1,872</item>
+        <item name="Uruguay">3,511</item>
+        <item name="Albania">2.988</item>
+    </string-array>
+
+    <string-array name="destinationID">
+        <item name="Austria">AU</item>
+        <item name="Finland">FIN</item>
+        <item name="Netherlands">NL</item>
+        <item name="Ireland">IRL</item>
+        <item name="Sweden">SWE</item>
+        <item name="Germany">GER</item>
+        <item name="Denmark">DNK</item>
+        <item name="Switzerland">CHE</item>
+        <item name="Norway">NOR</item>
+        <item name="France">FRA</item>
+        <item name="Spain">ESP</item>
+        <item name="Canada">CA</item>
+        <item name="Bulgaria">BGR</item>
+        <item name="Belgium">BEL</item>
+        <item name="Estonia">EST</item>
+        <item name="United Kingdom">UK</item>
+        <item name="Luxembourg">LUX</item>
+        <item name="New Zealand">NZL</item>
+        <item name="Italy">II</item>
+        <item name="Australia">AUS</item>
+        <item name="Latvia">LVA</item>
+        <item name="Cyprus">NIC</item>
+        <item name="Singapore">SIN</item>
+        <item name="Japan">JPN</item>
+        <item name="North Macedonia">NMA</item>
+        <item name="South Korea">SK</item>
+        <item name="Moldova">MDA</item>
+        <item name="Slovakia">SKA</item>
+        <item name="Romania">ROU</item>
+        <item name="Portugal">PRT</item>
+        <item name="Poland">POL</item>
+        <item name="Czech Republic">CZE</item>
+        <item name="Slovenia">SVN</item>
+        <item name="Costa_Rica">CRI</item>
+        <item name="Chile">CHL</item>
+        <item name="Iceland">ISL</item>
+        <item name="Lithuania">LTU</item>
+        <item name="Georgia">GEO</item>
+        <item name="Hungary">HUN</item>
+        <item name="United States">USA</item>
+        <item name="Russia">RUS</item>
+        <item name="Greece">GRC</item>
+        <item name="Bosnia and Herzegovina">BIH</item>
+        <item name="India">INDIA</item>
+        <item name="Malaysia">MY</item>
+        <item name="Armenia">ARM</item>
+        <item name="South Africa">ZAF</item>
+        <item name="Mauritius">MUS</item>
+        <item name="Uruguay">URY</item>
+        <item name="Albania">ALB</item>
+    </string-array>
+
+    <string-array name="allWeekend">
+        <item name="Bermuda">Bermuda</item>
+        <item name="Vancouver">Vancouver</item>
+        <item name="Baja">Baja</item>
+        <item name="Antigua">Antigua</item>
+        <item name="Costa_rica">Costa Rica</item>
+        <item name="Montreal">Montreal</item>
+        <item name="Belize">Belize</item>
+        <item name="Cartagena">Cartagena</item>
+    </string-array>
+
+    <string-array name="allWeekendID">
+        <item name="Bermuda">BMU</item>
+        <item name="Vancouver">VAN</item>
+        <item name="Baja">BAJA</item>
+        <item name="Antigua">ATG</item>
+        <item name="Costa_rica">CRI</item>
+        <item name="Montreal">MTL</item>
+        <item name="Belize">BLZ</item>
+        <item name="Cartagena">CTG</item>
+    </string-array>
+
+    <string-array name="flightDealsCountry">
+        <item name="Bali">Bali</item>
+        <item name="Japan">Japan</item>
+        <item name="Bangkok">Bangkok</item>
+        <item name="Goa">Goa</item>
+        <item name="Geneva">Geneva</item>
+        <item name="Milan">Milan</item>
+        <item name="Paris">Paris</item>
+        <item name="Ibiza">Ibiza</item>
+    </string-array>
+
+    <string-array name="flightDeals">
+        <item name="Bali">Bali at just $254</item>
+        <item name="Japan">Japan at just $800</item>
+        <item name="Bangkok">Bangkok at just $209</item>
+        <item name="Goa">Goa at just $500</item>
+        <item name="Geneva">Geneva at just $1000</item>
+        <item name="Milan">Milan at just $1000</item>
+        <item name="Paris">Paris at just $900</item>
+        <item name="Ibiza">Ibiza at just $1000</item>
+    </string-array>
+
+    <string-array name="flightDealsDesc">
+        <item name="Bali">Now you can fly to Bali for as low as $254 when you look for 2</item>
+        <item name="Japan">Now you can fly to Japan for as low as $800 when you look for 2</item>
+        <item name="Bangkok">Now you can fly to Bangkok for as low as $209 when you look for 2</item>
+        <item name="Goa">Now you can fly to Goa for as low as $500 when you look for 2</item>
+        <item name="Geneva">Now you can fly to Geneva for as low as $1000 when you look for 2</item>
+        <item name="Milan">Now you can fly to Milan for as low as $1000 when you look for 2</item>
+        <item name="Paris">Now you can fly to Paris for as low as $900 when you look for 2</item>
+        <item name="Ibiza">Now you can fly to Ibiza for as low as $1000 when you look for 2</item>
+    </string-array>
+
+    <string-array name="flightDealsExpDate">
+        <item name="Bali">Valid till 23/11/22</item>
+        <item name="Japan">Valid till 25/10/23</item>
+        <item name="Bangkok">Valid till 03/09/22</item>
+        <item name="Goa">Valid till 25/11/22</item>
+        <item name="Geneva">Valid till 15/12/22</item>
+        <item name="Milan">Valid till 11/11/22</item>
+        <item name="Paris">Valid till 19/10/22</item>
+        <item name="Ibiza">Valid till 03/09/22</item>
+    </string-array>
+
+    <string-array name="cityGuideCat">
+        <item name="Bon Appetit">Bon Appetit</item>
+        <item name="Landmarks">Landmarks</item>
+        <item name="Airbnb">Airbnb</item>
+        <item name="Hotels">Hotels</item>
+        <item name="Tips">Tips</item>
+    </string-array>
+
+    <string-array name="cityGuideDesc">
+        <item name="Bon Appetit">Whether you’re going for business, weekend travel, or really diving in, the Bon Appétit City Guides contain all you need to know (and eat) for a perfect trip.</item>
+        <item name="Landmarks">Have the best landmarks and places to visit ready on the tip of your fingertip</item>
+        <item name="Airbnb">Pick and choose your vacation stay places with ease and comfort</item>
+        <item name="Hotels">For those who prefer the hotel vibes, we got just the thing for you</item>
+        <item name="Tips">Tips and trick for you to travel with ease and a clear mind</item>
+    </string-array>
+</resources>
